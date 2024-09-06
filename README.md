@@ -46,7 +46,16 @@ git clone https://github.com/your-username/BreedFinder-AI.git
 cd BreedFinder-AI
 ```
 
-# Install dependencies
+## Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+## 💡 Future Enhancements
+
+- 📱 **Mobile App Integration**: Bringing BreedFinder AI to smartphones.
+- 🌐 **Web Interface**: Creating an easy-to-use web interface for breed identification.
+- 🐾 **More Breeds**: Expanding the model to cover even more dog breeds.
+
