@@ -20,3 +20,33 @@
 3. Receive additional insights about the predicted breed, including typical characteristics and behavior.
 
 ---
+
+
+## 🔧 Tech Stack
+
+- **Python** 🐍
+- **TensorFlow** or **PyTorch** 🔥
+- **OpenCV** 📷
+- **scikit-learn** 📊
+
+---
+
+## 📂 Installation
+
+To set up **BreedFinder AI** on your local machine, follow these steps:
+
+
+## Clone the repository
+```bash
+git clone https://github.com/your-username/BreedFinder-AI.git
+```
+
+## Navigate to the project directory
+```bash
+cd BreedFinder-AI
+```
+
+# Install dependencies
+```bash
+pip install -r requirements.txt
+```
